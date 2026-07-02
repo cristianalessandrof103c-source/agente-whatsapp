@@ -1,0 +1,6 @@
+# Ignore app build output and dependencies
+app/node_modules/
+app/.next/
+app/.turbo/
+app/.vercel/
+.DS_Store
